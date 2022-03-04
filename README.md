@@ -2,7 +2,7 @@
 <h3 align="center">Một fullstack developer từ Việt Nam</h3>
 
 - 🔭 Hiện tôi đang là sinh viên của **Đại học bách khoa - đại học Đà Nẵng**
-<img src='https://prod-001.s3.amazonaws.com/media/articleImages/Cartoon_Programmer_Writes_Code_Workspace_Concept._Vector.jpg' width='100%'>
+- 
 - 🌱 Tôi đang học tập và làm việc với **Laravel và Vue**
 
 - 👨‍💻 Chuyên ngành **công nghệ thông tin - ngoại ngữ Nhật**
@@ -11,6 +11,8 @@
 
 - 📫 Liên hệ tôi qua **dbvhoang@gmail.com**
 
+
+<img src='https://prod-001.s3.amazonaws.com/media/articleImages/Cartoon_Programmer_Writes_Code_Workspace_Concept._Vector.jpg' width='100%'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hoangdbv.ltv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangdbv.ltv" height="30" width="40" /></a>
