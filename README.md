@@ -2,7 +2,7 @@
 <h3 align="center">Một fullstack developer từ Việt Nam</h3>
 
 - 🔭 Hiện tôi đang là sinh viên của **Đại học bách khoa - đại học Đà Nẵng**
-- 
+
 - 🌱 Tôi đang học tập và làm việc với **Laravel và Vue**
 
 - 👨‍💻 Chuyên ngành **công nghệ thông tin - ngoại ngữ Nhật**
