@@ -9,7 +9,7 @@
 
 - 📝 Tôi thường xuyên viết bài trên [chexanhblog.online](chexanhblog.online)
 
-- 📫 Liên hệ tôi qua  **dangbavuhoang1408@gmail.com** **dbvhoang@gmail.com**
+- 📫 Liên hệ tôi qua  **dangbavuhoang1408@gmail.com** hoặc **dbvhoang@gmail.com**
 
 
 <img src='https://prod-001.s3.amazonaws.com/media/articleImages/Cartoon_Programmer_Writes_Code_Workspace_Concept._Vector.jpg' width='100%'>
