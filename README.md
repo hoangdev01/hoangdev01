@@ -3,9 +3,9 @@
 
 - 🔭 Hiện tôi đang là sinh viên của **Đại học bách khoa - đại học Đà Nẵng**
 
-- 🌱 Tôi đang học tập và làm việc với **Laravel và Vue**
-
 - 👨‍💻 Chuyên ngành **công nghệ thông tin - ngoại ngữ Nhật**
+
+- 🌱 Tôi đang học tập và làm việc với **Laravel và Vue**
 
 - 📝 Tôi thường xuyên viết bài trên [chexanhblog.online](chexanhblog.online)
 
