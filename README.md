@@ -7,7 +7,7 @@
 
 - 🌱 Tôi đang học tập và làm việc với **Laravel và Vue**
 
-- 📝 Tôi thường xuyên viết bài trên [chexanhblog.online](chexanhblog.online)
+- 📝 Tôi thường xuyên viết bài trên <a href="https://chexanhblog.online" target="_blank" rel="noreferrer">Chè xanh blog</a>
 
 - 📫 Liên hệ tôi qua  **dbvhoang@gmail.com** hoặc **dangbavuhoang1408@gmail.com**
 
