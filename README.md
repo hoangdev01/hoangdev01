@@ -3,9 +3,9 @@
 
 - 🔭 I'm currently a student at the **The University of Danang - University of Science and Technology**
 
-- 🌱 I am learning and working with **Laravel and Vuejs**
-
 - 👯 I’m studying at **Faculty of Information Technology**
+
+- 🌱 I am learning and working with **Laravel and Vuejs**
 
 - 📝 I regularly write articles on <a href="https://chexanhblog.online" target="_blank" rel="noreferrer">Chexanhblog</a>
 
