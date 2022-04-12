@@ -5,7 +5,7 @@
 
 - 👯 I’m studying at **Faculty of Information Technology**
 
-- 🌱 I am learning and working with **Laravel and Vuejs**
+- 🌱 I am learning and working with **Laravel, Nodejs, Vuejs and Reactjs**
 
 - 📝 I regularly write articles on <a href="https://chexanhblog.online" target="_blank" rel="noreferrer">Chexanhblog</a>
 
