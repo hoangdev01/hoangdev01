@@ -7,7 +7,7 @@
 
 - 🌱 I am learning and working with **Laravel, Nodejs, Vuejs and Reactjs**
 
-- 📝 I regularly write articles on <a href="https://chexanhblog.online" target="_blank" rel="noreferrer">Chexanhblog</a>
+- 📝 I regularly write articles on <a href="https://chexanhblog.online" target="_blank" rel="noreferrer">Chexanhblog</a> (The system is maintenance)
 
 - ⚡ Fun fact **I think I am funny**
 
