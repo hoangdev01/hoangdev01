@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dang Ba Vu Hoang</h1>
-<h3 align="center">A passionate fullstack developer from Vietnam</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I'm currently a student at the **The University of Danang - University of Science and Technology**
 
@@ -7,7 +7,7 @@
 
 - 🌱 I am learning and working with **Laravel, Nodejs, Vuejs and Reactjs**
 
-- 📝 I regularly write articles on <a href="https://chexanhblog.online" target="_blank" rel="noreferrer">Chexanhblog</a> (The system is maintenance)
+- 📝 I regularly write articles on <a href="https://chexanhblog.online" target="_blank" rel="noreferrer">Chexanhblog</a> 
 
 - ⚡ Fun fact **I think I am funny**
 
